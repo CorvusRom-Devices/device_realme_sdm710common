@@ -18,3 +18,7 @@ ro.sys.fw.dex2oat_thread_count=8
 debug.hwui.renderer=skiagl
 debug.renderengine.backend=skiaglthreaded
 renderthread.skia.reduceopstasksplitting=true
+
+# FUSE passthrough
+persist.sys.fuse.passthrough.enable=true
+
